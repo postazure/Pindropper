@@ -1,1 +1,5 @@
-ENV['GOOGLE_API_KEY']
+class MapsController < ApplicationController
+  def index
+    
+  end
+end
