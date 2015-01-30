@@ -41,6 +41,7 @@ function setMarker(title, coords, map) {
       '<p>Attribution: Uluru, <a href="https://en.wikipedia.org/w/index.php?title=Uluru&oldid=297882194">'+
       'https://en.wikipedia.org/w/index.php?title=Uluru</a> '+
       '(last visited June 22, 2009).</p>'+
+      '<img style="width:10%;height:10%;"src="http://upload.wikimedia.org/wikipedia/commons/0/06/Kitten_in_Rizal_Park,_Manila.jpg"'+
       '</div>'+
       '</div>';
 
